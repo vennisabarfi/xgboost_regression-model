@@ -2,6 +2,12 @@
 ## XGBoost Regression for Continuous Data Prediction
 xgboost regression model that models California housing data
 
+## Results
+Training score:  0.9419756057319272
+CV mean score:  0.8302532469006225
+MSE:  0.21333237170724623
+RMSE:  0.10666618585362311
+
 ### Overview
 
 This GitHub repository contains Python code that utilizes the XGBoost (Extreme Gradient Boosting) algorithm for predicting continuous data. The code specifically focuses on applications such as predicting heights, weights, temperatures, or any other continuous variable. The project uses the XGBRegressor from the XGBoost library, which is a powerful and efficient implementation of gradient boosting.
